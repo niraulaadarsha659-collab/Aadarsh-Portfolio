@@ -1,0 +1,27 @@
+# Aadarsh Niraula
+
+> Official website for Aadarsh Niraula, a writer, independent researcher, and youth & disability advocate based in Belbari, Koshi Province, Nepal.
+
+## Canonical pages
+
+- https://aadarshniraula.com.np/ — portfolio, biography, writing, research, advocacy, recognition, and contact
+- https://aadarshniraula.com.np/read-vol-1.html — Words I Never Said Aloud, Volume I
+- https://aadarshniraula.com.np/read-vol-2.html — Words I Never Said Aloud, Volume II
+
+## About
+
+Aadarsh Niraula completed +2 (Grade 12) at Golden Gate International College. His public work spans poetry, independent research, and youth/community advocacy.
+
+## Writing
+
+The website hosts two free poetry collections:
+- Words I Never Said Aloud — Volume I
+- Words I Never Said Aloud — Volume II: Poems from the War I Never Chose
+
+## Research
+
+The portfolio lists independent work on AI persona consistency, phenotypic traits, student wellbeing, and education reform in Nepal. DOI links on the website are the authoritative identifiers for the Zenodo papers.
+
+## Contact
+
+niraulaadarsha659@gmail.com
